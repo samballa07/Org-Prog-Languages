@@ -1,0 +1,15 @@
+2020-10-07T05:46:33+00:00 seths-mbp.lan#02 I: Start test public:1:uniq.
+2020-10-07T05:46:33+00:00 seths-mbp.lan#02 I: Test public:1:uniq is successful.
+2020-10-07T05:46:33+00:00 seths-mbp.lan#02 I: End test public:1:uniq.
+2020-10-07T05:46:33+00:00 seths-mbp.lan#02 I: Start test public:3:ap.
+2020-10-07T05:46:33+00:00 seths-mbp.lan#02 I: Test public:3:ap is successful.
+2020-10-07T05:46:33+00:00 seths-mbp.lan#02 I: End test public:3:ap.
+2020-10-07T05:46:33+00:00 seths-mbp.lan#02 I: Start test public:5:ptree_1.
+2020-10-07T05:46:33+00:00 seths-mbp.lan#02 I: Test public:5:ptree_1 is successful.
+2020-10-07T05:46:33+00:00 seths-mbp.lan#02 I: End test public:5:ptree_1.
+2020-10-07T05:46:33+00:00 seths-mbp.lan#02 I: Start test public:6:ptree_2.
+2020-10-07T05:46:33+00:00 seths-mbp.lan#02 I: Test public:6:ptree_2 is successful.
+2020-10-07T05:46:33+00:00 seths-mbp.lan#02 I: End test public:6:ptree_2.
+2020-10-07T05:46:33+00:00 seths-mbp.lan#02 I: Start test public:9:shape.
+2020-10-07T05:46:33+00:00 seths-mbp.lan#02 I: Test public:9:shape is successful.
+2020-10-07T05:46:33+00:00 seths-mbp.lan#02 I: End test public:9:shape.

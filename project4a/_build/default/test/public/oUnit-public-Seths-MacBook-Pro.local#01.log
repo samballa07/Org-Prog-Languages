@@ -1,0 +1,39 @@
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Start test public:0:public_assign1.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Test public:0:public_assign1 is successful.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: End test public:0:public_assign1.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Start test public:2:public_define1.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Test public:2:public_define1 is successful.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: End test public:2:public_define1.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Start test public:4:public_exp1.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Test public:4:public_exp1 is successful.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: End test public:4:public_exp1.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Start test public:6:public_greater.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Test public:6:public_greater is successful.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: End test public:6:public_greater.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Start test public:9:public_if_else_while.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Test public:9:public_if_else_while is successful.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: End test public:9:public_if_else_while.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Start test public:11:public_main.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Test public:11:public_main is successful.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: End test public:11:public_main.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Start test public:12:public_nested_if.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Test public:12:public_nested_if is successful.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: End test public:12:public_nested_if.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Start test public:14:public_nested_while.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Test public:14:public_nested_while is successful.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: End test public:14:public_nested_while.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Start test public:17:public_test2.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Test public:17:public_test2 is successful.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: End test public:17:public_test2.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Start test public:18:public_test3.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Test public:18:public_test3 is successful.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: End test public:18:public_test3.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Start test public:20:public_assoc1.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Test public:20:public_assoc1 is successful.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: End test public:20:public_assoc1.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Start test public:21:public_while.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Test public:21:public_while is successful.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: End test public:21:public_while.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Start test public:22:public_for.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: Test public:22:public_for is successful.
+2020-11-10T04:05:48+00:00 Seths-MacBook-Pro.local#01 I: End test public:22:public_for.
